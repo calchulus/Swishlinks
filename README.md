@@ -3,6 +3,8 @@ A new social media that brings professional portfolio to social profile
 
 https://www.swishlinks.com/download/
 
+[My Profile](https://www.swishlinks.com/calvin)
+
 # Sign Up!
 
 Fill out your personal profile:
